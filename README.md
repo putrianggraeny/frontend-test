@@ -1,7 +1,7 @@
 # Frontend Test - Elemes.ID
 Proyek frontend yang dibangun menggunakan [/React.js] dengan [Tailwind CSS/] dan version control [Git].
 
-# Sebelum memulai, pastikan kamu telah menginstall:
+## Sebelum memulai, pastikan kamu telah menginstall:
 1. Node.js (v20.4.0
 2. React (v19.0.0)
 3. Tailwind CSS (^3.4.17)
