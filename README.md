@@ -12,5 +12,4 @@ Proyek Frontend responsive yang dibangun menggunakan [React.js] dengan [Tailwind
 2. Jalankan `npm install` untuk menginstall dependency.
 3. Jalankan `npm start` untuk menjalankan proyek di lokal.
 
-## Landing Page
 ![image](https://github.com/user-attachments/assets/09580559-85ea-43c7-863b-351d128f875b)
